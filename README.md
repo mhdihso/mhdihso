@@ -1,4 +1,4 @@
-<h3 align="center">A Bakendend developer from Iran</h3>
+<h3 align="center">A Bakendend developer from Iran. Learning devops </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
